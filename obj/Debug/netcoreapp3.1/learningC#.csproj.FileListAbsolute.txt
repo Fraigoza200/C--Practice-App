@@ -1,0 +1,13 @@
+C:\Users\raigo\Documents\C#\learningC#\bin\Debug\netcoreapp3.1\learningC#.exe
+C:\Users\raigo\Documents\C#\learningC#\bin\Debug\netcoreapp3.1\learningC#.deps.json
+C:\Users\raigo\Documents\C#\learningC#\bin\Debug\netcoreapp3.1\learningC#.runtimeconfig.json
+C:\Users\raigo\Documents\C#\learningC#\bin\Debug\netcoreapp3.1\learningC#.runtimeconfig.dev.json
+C:\Users\raigo\Documents\C#\learningC#\bin\Debug\netcoreapp3.1\learningC#.dll
+C:\Users\raigo\Documents\C#\learningC#\bin\Debug\netcoreapp3.1\learningC#.pdb
+C:\Users\raigo\Documents\C#\learningC#\obj\Debug\netcoreapp3.1\learningC#.csprojAssemblyReference.cache
+C:\Users\raigo\Documents\C#\learningC#\obj\Debug\netcoreapp3.1\learningC#.csproj.CoreCompileInputs.cache
+C:\Users\raigo\Documents\C#\learningC#\obj\Debug\netcoreapp3.1\learningC#.AssemblyInfoInputs.cache
+C:\Users\raigo\Documents\C#\learningC#\obj\Debug\netcoreapp3.1\learningC#.AssemblyInfo.cs
+C:\Users\raigo\Documents\C#\learningC#\obj\Debug\netcoreapp3.1\learningC#.dll
+C:\Users\raigo\Documents\C#\learningC#\obj\Debug\netcoreapp3.1\learningC#.pdb
+C:\Users\raigo\Documents\C#\learningC#\obj\Debug\netcoreapp3.1\learningC#.genruntimeconfig.cache

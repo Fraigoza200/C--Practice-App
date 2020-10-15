@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\raigo\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\raigo\\.nuget\\packages"
+    ]
+  }
+}
